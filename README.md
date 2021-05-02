@@ -8,7 +8,7 @@
 * 📫 How to reach me **alankruthisaieni@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alankruthi-saieni-1739a61a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="alankruthi saieni" height="30" width="40" /></a><br>
+<a href="https://www.linkedin.com/in/alankruthi-saieni-1739a61a8" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/2x/linkedin.png" alt="alankruthi saieni" height="30" width="40" /></a><br>
 <a href="https://instagram.com/alankruthi_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="alankruthi_s" height="30" width="40" /></a><br>
 <a href="https://www.hackerrank.com/alankruthisaieni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="alankruthisaieni" height="30" width="40" /></a><br>
 <a href="https://www.leetcode.com/alankruthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="alankruthi" height="30" width="40" /></a>
