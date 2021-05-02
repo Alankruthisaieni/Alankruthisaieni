@@ -6,6 +6,8 @@
 * 🌱 I’m currently learning **Web Development**
 
 * 📫 How to reach me **alankruthisaieni@gmail.com**
+
+* 🎈 Always up for learning new things
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alankruthi-saieni-1739a61a8" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/2x/linkedin.png" alt="alankruthi saieni" height="30" width="40" /></a>
