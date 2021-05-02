@@ -9,6 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me: Contact me directly on [alankruthisaieni@gmail.com](alankruthisaieni@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
