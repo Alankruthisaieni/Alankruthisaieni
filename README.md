@@ -2,6 +2,7 @@
 <h3 align="center">A passionate coder and web-developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alankruthisaieni&label=Profile%20views&color=0e75b6&style=flat" alt="alankruthisaieni" /> </p>
+
 * 🌱 I’m currently learning **Web Development**
 
 * 📫 How to reach me **alankruthisaieni@gmail.com**
