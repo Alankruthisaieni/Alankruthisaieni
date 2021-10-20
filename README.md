@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alankruthisaieni&label=Profile%20views&color=0e75b6&style=flat" alt="alankruthisaieni" /> </p>
 
-* 🌱 I’m currently learning **Web Development**
+* 🌱 I’m currently learning **Machine Learning and DSA**
 
 * 📫 How to reach me **alankruthisaieni@gmail.com**
 
