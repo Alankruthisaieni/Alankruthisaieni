@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alankruthi-saieni-1739a61a8" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/2x/linkedin.png" alt="alankruthi saieni" height="30" width="40" /></a>
-<a href="https://instagram.com/alankruthi_s" target="blank"><img align="center" src="https://img.icons8.com/officel/2x/instagram-new.png" alt="alankruthi_s" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alankruthisaieni" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-512.png" alt="alankruthisaieni" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alankruthi" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/128/leetcode_logo_icon_145113.png" alt="alankruthi" height="30" width="40" /></a>
 </p>
